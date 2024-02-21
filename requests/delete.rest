@@ -1,0 +1,1 @@
+DELETE https://janinpuhelinluettelo.fly.dev/api/persons/1684
